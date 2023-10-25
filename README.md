@@ -2,15 +2,7 @@
 
 ___
 <p style="text-align: center;"> Por favor, escolha abaixo a linguagem desejada.<br><em>(Please, choose the best languange for you)</em></p>
-<style>
-details summary::-webkit-details-marker {
-  display: none;
-}
-details summary {
-  list-style: none;
-  cursor: pointer;
-}
-</style>
+
 <details>
   <summary class="custom-summary"><h3>Português</h3></summary>
 
