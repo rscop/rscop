@@ -1,8 +1,8 @@
-<h3 style="text-align: center;"><a href="https://www.linkedin.com/in/renato-alvorcem-scop-7b7b7811a/" target="_blank" rel="noreferrer">Renato Scop </a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/renato-alvorcem-scop-7b7b7811a/" target="_blank" rel="noreferrer">Renato Scop </a></h3>
 
 ___
 
-<p style="text-align: center;"> Por favor, escolha abaixo a linguagem desejada.<br><em>(Please, choose the best languange for you)</em></p>
+<p align="center"> Por favor, escolha abaixo a linguagem desejada.<br><em>(Please, choose the best languange for you)</em></p>
 
 <details>
   <summary>Português</summary>
