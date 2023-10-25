@@ -7,7 +7,7 @@ ___
 <details>
   <summary>Português</summary>
 
-  ### Olá, me chamo Renato Alvorcem Scop, sou um desenvolvedor amazonense brasileiro em constante evolução e aprendizado, aqui você me conhecer um pouco melhor.
+  <h3>Olá, me chamo Renato Alvorcem Scop, sou um desenvolvedor amazonense brasileiro em constante evolução e aprendizado, aqui você me conhecer um pouco melhor.</h3>
   <p>
   Meu primeiro contato com a área de programação foi quando decidi abrir servidores privados de alguns jogos populares no Brasil, e com isso acabei aprendendo um pouco de Java, C++, Redes, Firewall, Conexão Remota, Shell, Bash dentre inumeras outras tecnologias.
   </p>
@@ -18,7 +18,7 @@ ___
 <details>
   <summary>English</summary>
 
-  ### Hello, my name is Renato Alvorcem Scop. I'm a software developer from Amazonas, Brazil, in a constant cycle of learning and evolution. Here, you can get to know me better.
+   <h3>Hello, my name is Renato Alvorcem Scop. I'm a software developer from Amazonas, Brazil, in a constant cycle of learning and evolution. Here, you can get to know me better.</h3>
   <p>
   My first contact with programming was when I decided to open private game servers for some popular games in Brazil, and with that, I learned a little bit of Java, C++, networking, firewalls, remote connections, shell, and many other technologies.
   </p>
@@ -28,16 +28,16 @@ ___
 </details>
 
 ## <a href="https://www.linkedin.com/company/gisgeo/mycompany/" target="_blank" rel="noreferrer">Gisgeo (2022-????) - Portugal</a>
-  #### Desenvolvedor de Software
-  ###### (<em>Software Developer</em>)
+  <h4>Desenvolvedor de Software</h4>
+  <h5>(<em>Software Developer</em>)</h5>
   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="60" height="60"/> </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" width="60" height="60"/> </a>
 
   ## <a href="https://www.linkedin.com/company/tivit/" target="_blank" rel="noreferrer">Tivit (2021-2022) - Brasil</a>
-  #### Analista de Sistema
-  ###### (<em>System Analyst</em>)
+  <h4>Analista de Sistema</h4>
+  <h5>(<em>System Analyst</em>)</h5>
 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="60" height="60"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/> </a>
@@ -46,8 +46,8 @@ ___
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/> </a>
 
   ## <a href="https://www.linkedin.com/company/ezops/" target="_blank" rel="noreferrer">EzOps.cloud (2019-2021) - Brasil</a>
-  #### Engenheiro DevOps
-  ###### (<em>DevOps Engineer</em>)
+  <h4>Engenheiro DevOps</h4>
+  <h5>(<em>DevOps Engineer</em>)</h5>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg" alt="Kubernets" width="60" height="60"/> </a>
@@ -58,8 +58,8 @@ ___
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60"/> </a>
 
   ## <a href="https://www.linkedin.com/company/mova-tecnologia/" target="_blank" rel="noreferrer">Movamaps Tencologia (2017-2019) - Brasil</a>
-  #### Desenvolvedor Trainee
-  ###### (<em>Trainee Developer</em>)
+  <h4>Desenvolvedor Trainee</h4>
+  <h5>(<em>Trainee Developer</em>)</h5>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="Php" width="60" height="60"/> </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/> </a> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/> </a> 
