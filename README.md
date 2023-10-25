@@ -1,10 +1,11 @@
 <h3 style="text-align: center;"><a href="https://www.linkedin.com/in/renato-alvorcem-scop-7b7b7811a/" target="_blank" rel="noreferrer">Renato Scop </a></h3>
 
 ___
+
 <p style="text-align: center;"> Por favor, escolha abaixo a linguagem desejada.<br><em>(Please, choose the best languange for you)</em></p>
 
 <details>
-  <summary class="custom-summary"><h3>Português</h3></summary>
+  <summary>Português</summary>
 
   ### Olá, me chamo Renato Alvorcem Scop, sou um desenvolvedor amazonense brasileiro em constante evolução e aprendizado, aqui você me conhecer um pouco melhor.
   <p>
@@ -15,7 +16,7 @@ ___
   </p>
 </details>
 <details>
-  <summary><h3>English</h3></summary>
+  <summary>English</summary>
 
   ### Hello, my name is Renato Alvorcem Scop. I'm a software developer from Amazonas, Brazil, in a constant cycle of learning and evolution. Here, you can get to know me better.
   <p>
