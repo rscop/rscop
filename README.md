@@ -29,8 +29,11 @@ Formally speaking, I started my career in 2017. Since then, I have worked on var
 
 ## <a href="https://www.linkedin.com/company/gisgeo/mycompany/" target="_blank" rel="noreferrer">Gisgeo (2022-????) - Portugal</a>
 
+  <p style="font-size: 15px; font-weight: 100;">Tech Lead</p>
   <p style="font-size: 15px; font-weight: 100;">Desenvolvedor de Software</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>Software Developer</em>)<br></p>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="60" height="60"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJS" width="60" height="60"/> </a>
   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="60" height="60"/> </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>
@@ -56,7 +59,7 @@ Formally speaking, I started my career in 2017. Since then, I have worked on var
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg" alt="Kubernets" width="60" height="60"/> </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60"/> </a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="Rabbitmq" width="60" height="60"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" alt="Rabbitmq" width="60" height="60"/> </a>
   <a href="https://www.elastic.co/pt/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt784552688fae9979/5bbca1d7c863b8e614126af7/logo-elastic-outline-white.svg" alt="Elasticsearch" width="60" height="60"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60"/> </a>
 
