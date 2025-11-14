@@ -33,7 +33,7 @@ Formally speaking, I started my career in 2017. Since then, I have worked on var
   <p style="font-size: 15px; font-weight: 100;">Desenvolvedor de Software</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>Software Developer</em>)<br></p>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="60" height="60"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJS" width="60" height="60"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="60" height="60"/> </a>
   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="60" height="60"/> </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>
