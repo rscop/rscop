@@ -27,6 +27,32 @@ Formally speaking, I started my career in 2017. Since then, I have worked on var
 </p>
 </details>
 
+___
+
+<h3 align="center">Hobbies e projetos pessoais</h3>
+
+## <a href="https://github.com/orgs/TispStudios/projects/2/views/1" target="_blank" rel="noreferrer">KoMunnity - KOM:R</a>
+
+<p>
+  Atualmente estou desenvolvendo um plugin em Kotlin para um servidor Factions MMORPG de Minecraft, focado em sistemas avançados de jogabilidade.
+O projeto inclui classes únicas de personagem (com habilidades e características próprias), criaturas e chefes totalmente customizados e uma série de mecânicas sistêmicas que impactam tanto a diversão momentânea quanto eventos-chave da história do servidor.
+
+O principal desafio técnico é implementar toda essa complexidade em um ambiente majoritariamente single-thread, mantendo o servidor estável em 20 TPS. Para isso, eu gerencio:
+
+ - Estados de milhares de entidades simultaneamente;
+ - Flags e atributos dinâmicos em itens e entidades;
+ - Cálculo de pathfinding e lógica de combate (acertos, danos, resistências, efeitos especiais);
+ - Propriedades e comportamentos únicos para cada tipo de item, criatura e boss.
+
+Toda a lógica é pensada para minimizar o custo por tick, evitando operações pesadas no main thread e estruturando o código em sistemas coesos (damage system, state manager, schedulers, etc.) para garantir desempenho e previsibilidade.
+</p>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinfoundation.org/static/kotlin-logo-e561bb24367c5fce5fcdaedb726b621b.png" alt="Kotlin" width="60" height="60"/> </a>
+<a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://docs.papermc.io/_astro/papermc_logo.512_Z17JX2E.webp" alt="PaperMC" width="60" height="60"/> </a>
+
+___
+
+<h3 align="center">Work</h3>
+
 ## <a href="https://www.linkedin.com/company/gisgeo/mycompany/" target="_blank" rel="noreferrer">Gisgeo (2022-????) - Portugal</a>
 
   <p style="font-size: 15px; font-weight: 100;">Tech Lead</p>
