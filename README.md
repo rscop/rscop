@@ -47,7 +47,7 @@ O principal desafio técnico é implementar toda essa complexidade em um ambient
 Toda a lógica é pensada para minimizar o custo por tick, evitando operações pesadas no main thread e estruturando o código em sistemas coesos (damage system, state manager, schedulers, etc.) para garantir desempenho e previsibilidade.
 </p>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinfoundation.org/static/kotlin-logo-e561bb24367c5fce5fcdaedb726b621b.png" alt="Kotlin" width="60" height="60"/> </a>
-<a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://docs.papermc.io/_astro/papermc_logo.512_Z17JX2E.webp" alt="PaperMC" width="60" height="60"/> </a>
+<a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.512.png" alt="PaperMC" width="60" height="60"/> </a>
 
 ___
 
