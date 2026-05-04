@@ -46,8 +46,11 @@ O principal desafio técnico é implementar toda essa complexidade em um ambient
 
 Toda a lógica é pensada para minimizar o custo por tick, evitando operações pesadas no main thread e estruturando o código em sistemas coesos (damage system, state manager, schedulers, etc.) para garantir desempenho e previsibilidade.
 </p>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinfoundation.org/static/kotlin-logo-e561bb24367c5fce5fcdaedb726b621b.png" alt="Kotlin" width="60" height="60"/> </a>
-<a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.512.png" alt="PaperMC" width="60" height="60"/> </a>
+
+<p align="left">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinfoundation.org/static/kotlin-logo-e561bb24367c5fce5fcdaedb726b621b.png" alt="Kotlin" height="60" width="auto"/></a>
+<a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.512.png" alt="PaperMC" height="60" width="auto"/></a>
+</p>
 
 ___
 
@@ -58,46 +61,56 @@ ___
   <p style="font-size: 15px; font-weight: 100;">Tech Lead</p>
   <p style="font-size: 15px; font-weight: 100;">Desenvolvedor de Software</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>Software Developer</em>)<br></p>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="60" height="60"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="60" height="60"/> </a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="60" height="60"/> </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" width="60" height="60"/> </a>
-
+  <p align="left">
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" height="60" width="auto" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" height="60" width="auto"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" height="60" width="auto"/></a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" height="60" width="auto"/></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" height="60" width="auto"/></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="60" width="auto"/></a>
+  </p>
+  
   ## <a href="https://www.linkedin.com/company/tivit/" target="_blank" rel="noreferrer">Tivit (2021-2022) - Brasil</a>
 
   <p style="font-size: 15px; font-weight: 100;">Analista de Sistema</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>System Analyst</em>)<br></p>
 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="60" height="60"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/> </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" alt="Go" width="60" height="60"/> </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="Asp.net" width="60" height="60"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/> </a>
+  <p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" height="60" width="auto"/></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg" alt="Oracle" height="60" width="auto"/></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" alt="Go" height="60" width="auto"/></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="Asp.net" height="60" width="auto"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="Azure" height="60" width="auto"/></a>
+  </p>
 
   ## <a href="https://www.linkedin.com/company/ezops/" target="_blank" rel="noreferrer">EzOps.cloud (2019-2021) - Brasil</a>
 
   <p style="font-size: 15px; font-weight: 100;">Engenheiro DevOps</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>DevOps Engineer</em>)<br></p>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg" alt="Kubernets" width="60" height="60"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60"/> </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" alt="Rabbitmq" width="60" height="60"/> </a>
-  <a href="https://www.elastic.co/pt/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt784552688fae9979/5bbca1d7c863b8e614126af7/logo-elastic-outline-white.svg" alt="Elasticsearch" width="60" height="60"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60"/> </a>
-
+  
+  <p align="left">
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="60" width="auto"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" height="60" width="auto"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg" alt="Kubernets" height="60" width="auto"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" height="60" width="auto"/></a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" alt="Nginx" height="60" width="auto"/></a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" alt="Rabbitmq" height="60" width="auto"/></a>
+  <a href="https://www.elastic.co/pt/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt784552688fae9979/5bbca1d7c863b8e614126af7/logo-elastic-outline-white.svg" alt="Elasticsearch" height="60" width="auto"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="60" width="auto"/></a>
+  </p>
+  
   ## <a href="https://www.linkedin.com/company/mova-tecnologia/" target="_blank" rel="noreferrer">Movamaps Tencologia (2017-2019) - Brasil</a>
 
   <p style="font-size: 15px; font-weight: 100;">Desenvolvedor Trainee</p>
   <p style="font-size: 10px; font-weight: 500;">(<em>Trainee Developer</em>)<br></p>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="Php" width="60" height="60"/> </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="60" height="60"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="60" height="60"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original.svg" alt="Aws" width="60" height="60"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/> </a> 
+
+  <p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="Php" height="60" width="auto"/></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="Angular" height="60" width="auto"/></a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="Javascript" height="60" width="auto"/></a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="60" width="auto"/></a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" height="60" width="auto"/></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="60" width="auto"/></a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original.svg" alt="Aws" height="60" width="auto"/></a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Bash" height="60" width="auto"/></a> 
+  </p>
