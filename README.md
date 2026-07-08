@@ -64,7 +64,7 @@ ___
   <p align="left">
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" height="60" width="auto" /></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" height="60" width="auto"/></a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" height="60" width="auto"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://codeigniter.com/assets/icons/ci-logo.png" alt="Codeigniter" height="60" width="auto"/></a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apache/apache-original-wordmark.svg" alt="Apache" height="60" width="auto"/></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java" height="60" width="auto"/></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="60" width="auto"/></a>
