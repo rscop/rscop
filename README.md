@@ -52,11 +52,12 @@ Toda a lógica é pensada para minimizar o custo por tick, evitando operações 
 <a href="https://papermc.io/" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.512.png" alt="PaperMC" height="60" width="auto"/></a>
 </p>
 
-## <a href="https://github.com/Desacorde/Desacorde" target="_blank" rel="noreferrer">Desacord</a>
+## <a href="https://github.com/Desacorde/Desacorde" target="_blank" rel="noreferrer">Desacorde</a>
 
 <p>
   <a href="https://desacorde.app" target="_blank" rel="noreferrer">Desacorde</a> é uma alternativa ao Discord que nasce depois das medidas da ANPD contra o Discord no Brasil. Não pede conta e não guarda nenhum dado de usuário: mensagens, arquivos e salas existem só na memória, enquanto houver gente conectada. O último a sair, literalmente, fecha a porta e tudo deixa de existir. Voz e tela vão direto entre navegadores. Todo servidor é público. Código aberto (AGPL-3.0), hospedável com um comando.
 </p>
+
 ___
 
 <h3 align="center">Work</h3>
