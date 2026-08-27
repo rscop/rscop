@@ -55,7 +55,9 @@ Toda a lógica é pensada para minimizar o custo por tick, evitando operações 
 ## <a href="https://github.com/Desacorde/Desacorde" target="_blank" rel="noreferrer">Desacorde</a>
 
 <p>
-  <a href="https://desacorde.app" target="_blank" rel="noreferrer">Desacorde</a> é uma alternativa ao Discord que nasce depois das medidas da ANPD contra o Discord no Brasil. Não pede conta e não guarda nenhum dado de usuário: mensagens, arquivos e salas existem só na memória, enquanto houver gente conectada. O último a sair, literalmente, fecha a porta e tudo deixa de existir. Voz e tela vão direto entre navegadores. Todo servidor é público. Código aberto (AGPL-3.0), hospedável com um comando.
+  <a href="https://desacorde.app" target="_blank" rel="noreferrer">Desacorde</a> é uma alternativa ao Discord que nasce depois das medidas da ANPD contra o Discord no Brasil. Não pede conta e não guarda nenhum dado de usuário: mensagens, arquivos e salas existem só na memória, enquanto houver gente conectada. O último a sair, literalmente, fecha a porta e tudo deixa de existir. Voz e tela vão direto entre navegadores. Todo servidor é público. Código aberto (AGPL-3.0), hospedável com um comando. </br>
+  Esse projeto também vai servir para estudar e entender melhor como funciona a comunicação Mesh P2P, como funciona o protocolo WebRTC e formas de unir os dois e escalar de forma otimizada. </br>
+  Maior problema hoje é que p2p com muitos clientes ativos consome muita banda e cpu. Um verdadeiro Mesh P2P continua sendo um grande problema na computação.
 </p>
 
 ___
